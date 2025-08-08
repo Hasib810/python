@@ -1,0 +1,7 @@
+print("1.Take 500mg water.")
+print("2.Boil the water.")
+print("3.Add 2 spoons of tea.")
+print("4.Add 1 spoon of sugar.")
+print("5.Add 1 spoon of milk.")
+print("6.Boil for 5 minutes.")
+print("7.Your tea is ready.")

@@ -1,0 +1,6 @@
+print("welcome to my calculator!")
+bill = float(input("enter the total bill: "))
+vat = int(input("percentage of vat 10, 15, 20? "))
+people = int(input("how many people will split the bill? "))
+bill_with_vat = bill + (bill * vat/100)
+print(f"each person should pay: {bill_with_vat/people}")

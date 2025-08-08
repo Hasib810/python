@@ -1,0 +1,1 @@
+print("1.Take 500mg water.\n2.Boil it for 5 minutes.\n3.Add 2 spoons of tea.\n4Add1 spoon of sugar.\n5.Add 1 spoon of milk.\n6.Boil for 5 minutes.\n7.Your tea is ready!")
